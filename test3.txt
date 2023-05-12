@@ -1,0 +1,2 @@
+Hi {{1}}, your statement number {{2}} is ready to be viewed.
+Hi Mr Smith, your invoice number A012345 is ready to be viewed.

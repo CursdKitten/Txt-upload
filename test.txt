@@ -1,0 +1,2 @@
+Hello {{1}}, the amount of {{2}} is due on {{3}}, payable via {{4}}.
+Hello Harvey Specter, the amount of 314.90 is due on 22/10/2022, payable via FNB.
