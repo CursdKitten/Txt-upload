@@ -1,0 +1,55 @@
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    color: #444;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    font-size: 1.2em;
+    margin-top: 20px;
+    color: #333;
+}
+
+input[type=file] {
+    display: block;
+    margin-top: 10px;
+    padding: 5px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 1.2em;
+}
+
+#read-file-btn {
+    display: block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+#read-file-btn:hover {
+    background-color: #3e8e41;
+}
+
+#output {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #333;
+}
